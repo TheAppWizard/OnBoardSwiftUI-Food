@@ -14,4 +14,4 @@ Lottie Files - [Lottie Files](https://github.com/airbnb/lottie-ios)
 ![onboard](https://user-images.githubusercontent.com/70090469/145598048-eed6e7fd-d141-4d0b-9d83-8eb56cf31014.png)
 
 # Instagram 
-[TheAppWizard](https://www.instagram.com/theappwizard2408/?hl=en)
+The App Wizard - [The App Wizard](https://www.instagram.com/theappwizard2408/?hl=en)
